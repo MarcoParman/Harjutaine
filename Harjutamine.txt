@@ -1,0 +1,2 @@
+GitHub on kõrgel tasemel veebisait, mis aitab arendajatel oma koodi salvestada, samuti nende koodi muudatusi jälgida ja juhtida.
+Githubi enamasti kasutavad programmeerijad ja õpilased kes programmeerimist õpivad.
